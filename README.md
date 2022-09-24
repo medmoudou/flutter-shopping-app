@@ -1,6 +1,6 @@
-# api
+# Flutter shopping app
 
-A new Flutter project.
+My first flutter project: Simple shopping app with Flutter.
 
 ## Getting Started
 
